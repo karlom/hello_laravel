@@ -36,7 +36,7 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">Hello Laravel! - Let's go to github!</div>
+                <div class="title">this is a 503 page!!</div>
                 <div class="content">---by dongboge</div>
             </div>
         </div>
